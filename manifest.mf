@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 OpenIDE-Module: net.nicoulaj.visualvm.plugins.hidejstatd
+OpenIDE-Module-Implementation-Version: 0
 OpenIDE-Module-Install: net/nicoulaj/visualvm/plugins/hidejstatd/HideJStatdApplicationsModule.class
 OpenIDE-Module-Localizing-Bundle: net/nicoulaj/visualvm/plugins/hidejstatd/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
 
